@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lab4"
+rootProject.name = "static1"
 include(":app")
