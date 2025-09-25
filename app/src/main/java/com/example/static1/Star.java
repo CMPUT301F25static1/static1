@@ -6,7 +6,6 @@ public class Star extends Shape {
         super(x,y);
 
     }
-
     @Override
     public int getX() {
         return super.getX();
