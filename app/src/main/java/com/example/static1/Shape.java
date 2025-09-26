@@ -3,7 +3,8 @@ package com.example.static1;
 public abstract class Shape {
     private int x;
     private int y;
-    protected String color = "blue";   
+    protected String color = "blue";
+    protected String color2 = "green";
 
     public Shape(int x, int y) {
         this.x = x;
